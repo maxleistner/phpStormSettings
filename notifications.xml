@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="PHP PSR-0 Namespace Root Detection" shouldLog="false" />
+  </component>
+</application>
