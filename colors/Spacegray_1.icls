@@ -1,10 +1,10 @@
 <scheme name="Spacegray Dark" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="414651" />
     <option name="CARET_COLOR" value="ebcb8b" />
@@ -396,6 +396,16 @@
       <value>
         <option name="BACKGROUND" value="3b4f68" />
         <option name="EFFECT_COLOR" value="4a4848" />
+      </value>
+    </option>
+    <option name="JADE_FILE_PATH">
+      <value>
+        <option name="FOREGROUND" value="ff51ad" />
+      </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="c62d58" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
