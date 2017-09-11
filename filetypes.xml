@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
