@@ -4,10 +4,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
