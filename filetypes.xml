@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="block-0" type="HTML" />
+      <mapping pattern="Post" type="PHP" />
+      <mapping pattern="Department" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
