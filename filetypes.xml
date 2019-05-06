@@ -8,6 +8,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
