@@ -1,20 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="block-0" type="HTML" />
-      <mapping pattern="Post" type="PHP" />
       <mapping pattern="Department" type="PHP" />
+      <mapping pattern="Post" type="PHP" />
+      <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".config_rb" type="PLAIN_TEXT" />
       <mapping pattern="_contact-form.scss" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
-      <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
-      <mapping pattern=".config_rb" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="_glossary-initial.scss" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -25,6 +21,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
 </application>
