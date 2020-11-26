@@ -5,10 +5,10 @@
       <mapping pattern="Department" type="PHP" />
       <mapping pattern="Post" type="PHP" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
-      <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
       <mapping pattern="_contact-form.scss" type="PLAIN_TEXT" />
       <mapping pattern=".config_rb" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="_commonContactBar.scss" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="_glossary-initial.scss" type="SCSS" />
