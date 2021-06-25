@@ -10,11 +10,11 @@
       <mapping pattern=".config_rb" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="_glossary-initial.scss" type="SCSS" />
-      <mapping ext="yaml" type="SnakeYAML" />
-      <mapping ext="yml" type="SnakeYAML" />
+      <removed_mapping ext="yml" type="SnakeYAML" />
+      <removed_mapping ext="yaml" type="SnakeYAML" />
       <mapping ext="liquid" type="Twig" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
